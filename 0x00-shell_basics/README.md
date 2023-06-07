@@ -4,3 +4,4 @@
 3.This script lists directory contents in a long file
 4.This script lists hidden files
 5.This script lists file digits
+6.This script makes a directory in tmp folder
