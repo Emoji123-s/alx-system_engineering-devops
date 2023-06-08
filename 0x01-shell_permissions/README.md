@@ -3,3 +3,4 @@
 2.prints all groups of a user
 3.changes ownership to betty
 4.creates an empty file
+5.changes permission of hello
