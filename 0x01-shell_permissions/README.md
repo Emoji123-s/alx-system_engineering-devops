@@ -10,3 +10,4 @@
 9.sets the file to allow execution to the group, write and execution to others, and all to the file owners
 10.mirrors the permission of a file
 11.adds an execute permission t the subdirectories of a directory for all
+12.creates a directory with permissions 751
