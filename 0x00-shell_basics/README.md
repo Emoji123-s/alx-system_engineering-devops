@@ -16,3 +16,4 @@
 15.move uppercase files
 16.Clean emacs
 17.Tree
+18.To print directories and files seperated by commas
