@@ -6,3 +6,4 @@
 5.changes permission of hello
 6.adds execute permission to hello
 7.adds execute permission to the owner, grups and other users
+8.gives the other users the permissions
