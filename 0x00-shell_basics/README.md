@@ -14,3 +14,4 @@
 13.Symbolic link
 14.copying HTML files
 15.move uppercase files
+16.Clean emacs
