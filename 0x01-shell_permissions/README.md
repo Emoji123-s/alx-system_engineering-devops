@@ -4,3 +4,4 @@
 3.changes ownership to betty
 4.creates an empty file
 5.changes permission of hello
+6.adds execute permission to hello
