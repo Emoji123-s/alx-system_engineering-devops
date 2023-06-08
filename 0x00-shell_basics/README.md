@@ -11,3 +11,4 @@
 10.To change to the previous directory
 11.To list with . and ..
 12.To check the type of a file
+13.Symbolic link
