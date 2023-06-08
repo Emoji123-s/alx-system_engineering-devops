@@ -13,3 +13,4 @@
 12.To check the type of a file
 13.Symbolic link
 14.copying HTML files
+15.move uppercase files
