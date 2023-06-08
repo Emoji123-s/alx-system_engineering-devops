@@ -6,3 +6,4 @@
 5.This script lists file digits
 6.This script makes a directory in tmp folder
 7.To move betty
+8.To delete betty
