@@ -5,3 +5,4 @@
 4.This script lists hidden files
 5.This script lists file digits
 6.This script makes a directory in tmp folder
+7.To move betty
