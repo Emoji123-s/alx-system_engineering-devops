@@ -8,3 +8,4 @@
 7.adds execute permission to the owner, grups and other users
 8.gives the other users the permissions
 9.sets the file to allow execution to the group, write and execution to others, and all to the file owners
+10.mirrors the permission of a file
