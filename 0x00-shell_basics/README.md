@@ -12,3 +12,4 @@
 11.To list with . and ..
 12.To check the type of a file
 13.Symbolic link
+14.copying HTML files
