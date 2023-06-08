@@ -9,3 +9,4 @@
 8.To delete betty
 9.To delete myfirstdirectory
 10.To change to the previous directory
+11.To list with . and ..
