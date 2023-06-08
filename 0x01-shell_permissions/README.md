@@ -5,3 +5,4 @@
 4.creates an empty file
 5.changes permission of hello
 6.adds execute permission to hello
+7.adds execute permission to the owner, grups and other users
