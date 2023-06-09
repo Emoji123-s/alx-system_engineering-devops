@@ -12,3 +12,4 @@
 11.adds an execute permission t the subdirectories of a directory for all
 12.creates a directory with permissions 751
 13.changes the group owner
+14.changes thefile owner to vincent and the group order to staff
