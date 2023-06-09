@@ -11,3 +11,4 @@
 10.mirrors the permission of a file
 11.adds an execute permission t the subdirectories of a directory for all
 12.creates a directory with permissions 751
+13.changes the group owner
