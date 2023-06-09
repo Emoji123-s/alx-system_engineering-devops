@@ -13,3 +13,4 @@
 12.creates a directory with permissions 751
 13.changes the group owner
 14.changes thefile owner to vincent and the group order to staff
+15.changes the permissions of _hello for the user and group
