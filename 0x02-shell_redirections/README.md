@@ -5,3 +5,4 @@ Committing First
 3.Prints 2 files at once
 4.Displays the last 10 lines
 5.Displays the first 10 lines
+6.Displays only the third line
