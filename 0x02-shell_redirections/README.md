@@ -6,3 +6,4 @@ Committing First
 4.Displays the last 10 lines
 5.Displays the first 10 lines
 6.Displays only the third line
+7.Creates a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
