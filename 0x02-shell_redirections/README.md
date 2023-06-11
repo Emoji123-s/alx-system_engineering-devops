@@ -15,3 +15,4 @@ Committing First
 13.Takes a list of words and prints the ones that appear only once
 14.Finds a pattern
 15.Displays the number of lines that contains a pattern
+16.Prints 3 lines after the pattern
