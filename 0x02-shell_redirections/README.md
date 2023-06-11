@@ -20,3 +20,4 @@ Committing First
 18.Display only letters
 19.Replaces characters
 20.Deletes characters
+21.Reverses input
