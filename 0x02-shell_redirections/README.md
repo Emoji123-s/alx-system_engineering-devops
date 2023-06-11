@@ -9,3 +9,4 @@ Committing First
 7.Creates a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 8.Saves current state of directory
 9.Duplicates last line
+10.Deletes files without deleting the directory
