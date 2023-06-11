@@ -19,3 +19,4 @@ Committing First
 17.Prints non-matching pattern
 18.Display only letters
 19.Replaces characters
+20.Deletes characters
