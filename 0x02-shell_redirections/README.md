@@ -13,3 +13,4 @@ Committing First
 11.counts the number of directries and sundirectories along with the hidden directory
 12.Displays the 10 newest files 
 13.Takes a list of words and prints the ones that appear only once
+14.Finds a pattern
