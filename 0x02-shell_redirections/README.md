@@ -10,3 +10,4 @@ Committing First
 8.Saves current state of directory
 9.Duplicates last line
 10.Deletes files without deleting the directory
+11.counts the number of directries and sundirectories along with the hidden directory
