@@ -17,3 +17,4 @@ Committing First
 15.Displays the number of lines that contains a pattern
 16.Prints 3 lines after the pattern
 17.Prints non-matching pattern
+18.Display only letters
