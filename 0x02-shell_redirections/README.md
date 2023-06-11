@@ -8,3 +8,4 @@ Committing First
 6.Displays only the third line
 7.Creates a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 8.Saves current state of directory
+9.Duplicates last line
