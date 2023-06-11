@@ -18,3 +18,4 @@ Committing First
 16.Prints 3 lines after the pattern
 17.Prints non-matching pattern
 18.Display only letters
+19.Replaces characters
