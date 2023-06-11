@@ -21,3 +21,4 @@ Committing First
 19.Replaces characters
 20.Deletes characters
 21.Reverses input
+22.Sorts according to users
