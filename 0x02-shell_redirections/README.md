@@ -14,3 +14,4 @@ Committing First
 12.Displays the 10 newest files 
 13.Takes a list of words and prints the ones that appear only once
 14.Finds a pattern
+15.Displays the number of lines that contains a pattern
