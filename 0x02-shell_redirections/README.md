@@ -22,3 +22,4 @@ Committing First
 20.Deletes characters
 21.Reverses input
 22.Sorts according to users
+100.Finds all empty files and directories in the current directory and all sub directories
