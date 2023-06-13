@@ -4,3 +4,4 @@
 3.Counts the number of directories in PATH
 4.Prints all environmental variable
 5.Prints local variable
+6.Creates a local variable
