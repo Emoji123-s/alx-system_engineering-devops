@@ -6,3 +6,4 @@
 5.Prints local variable
 6.Creates a local variable
 7.Creates a global variable
+8.Performs an arithmetic plus operation
