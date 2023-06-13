@@ -23,3 +23,4 @@ Committing First
 21.Reverses input
 22.Sorts according to users
 100.Finds all empty files and directories in the current directory and all sub directories
+101.A script that lists all the files with a .gif extension in the current directory and all its sub-directories.
