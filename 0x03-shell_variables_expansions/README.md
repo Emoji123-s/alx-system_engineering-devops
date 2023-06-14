@@ -8,3 +8,4 @@
 7.Creates a global variable
 8.Performs an arithmetic plus operation
 9.Performs an arthmetic divide operation
+10.Performs an exponential operation
