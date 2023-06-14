@@ -13,3 +13,4 @@
 12.Prints a combination of letters
 13.Prints a number with 2 decimal places
 14.Converts from base 10 to base 16
+15.Writes a script that encodes and decodes text using the rot13 encryption. Assumes ASCII.
