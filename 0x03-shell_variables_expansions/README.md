@@ -10,3 +10,4 @@
 9.Performs an arthmetic divide operation
 10.Performs an exponential operation
 11.Converts from base 2 to base 10
+12.Prints a combination of letters
