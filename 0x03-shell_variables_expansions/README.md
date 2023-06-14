@@ -12,3 +12,4 @@
 11.Converts from base 2 to base 10
 12.Prints a combination of letters
 13.Prints a number with 2 decimal places
+14.Converts from base 10 to base 16
