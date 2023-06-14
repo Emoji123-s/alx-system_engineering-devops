@@ -7,3 +7,4 @@
 6.Creates a local variable
 7.Creates a global variable
 8.Performs an arithmetic plus operation
+9.Performs an arthmetic divide operation
